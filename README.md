@@ -1,2 +1,2 @@
-# Jupyter Notebook de acompanhamento do Mentoria Evolution do portal Minerando dados http://www.minerandodados.com.br
-## Este Notebook foi disponibilizado a fim do entendimento do KNN utilizando os dados do dataset Iris
+# Repositório criado para acompanhamento do Mentoria Evolution do portal Minerando dados http://www.minerandodados.com.br
+## Este Notebook da aula 09 foi disponibilizado a fim do entendimento do KNN utilizando os dados do dataset Iris
